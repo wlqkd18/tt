@@ -1,5 +1,5 @@
 package tt.test;
 
-public class Apple {
+public class People {
 
 }
